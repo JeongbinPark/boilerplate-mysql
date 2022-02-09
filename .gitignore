@@ -105,3 +105,4 @@ dist
 
 # Database config
 server/config/mysqlLoginConfig.js
+
